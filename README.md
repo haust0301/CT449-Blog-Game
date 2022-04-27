@@ -1,13 +1,18 @@
-# CT449-Blog-Game
-
-#backend
-
-=> config file .env 
+### backed
 
 npm i
-npm run start
 
-#frontend
+npm run dev
+
+### frontend
 
 npm i
+
+### Compile and Hot-Reload for Development
+
 npm run serve
+
+### Compile and Minify for Production
+
+npm run build
+
